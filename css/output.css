@@ -822,3 +822,13 @@ video {
   outline-style: solid;
 }
 
+.hover\:bg-green:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(196 248 42 / var(--tw-bg-opacity, 1));
+}
+
+.hover\:text-grey-darkest:hover {
+  --tw-text-opacity: 1;
+  color: rgb(20 20 20 / var(--tw-text-opacity, 1));
+}
+
